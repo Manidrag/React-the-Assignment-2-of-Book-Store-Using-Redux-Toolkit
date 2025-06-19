@@ -13,9 +13,9 @@ A React-based online library system that allows users to browse, search, and add
 npm install
 ```
 
-3. Start the development server:
+3. Start the development // Local server in approprite browser:
 ```bash
-npm start
+npm run dev
 ```
 
 ## Features

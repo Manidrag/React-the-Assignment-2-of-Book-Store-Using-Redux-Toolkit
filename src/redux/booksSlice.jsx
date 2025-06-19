@@ -10,6 +10,8 @@ const loadBooks = () => {
 const saveBooks = (books) => {
   localStorage.setItem('books', JSON.stringify(books));
 };
+//New books adding and local stroge use too
+
 
 const booksSlice = createSlice({
   name: 'books',

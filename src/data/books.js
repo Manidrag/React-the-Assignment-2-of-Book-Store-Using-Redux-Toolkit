@@ -85,6 +85,7 @@ export const books = [
     category: "Romance",
     description: "A classic romance novel set in 19th-century England.",
     rating: 4.9,
+    popular:true,
     image: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80"
   },
   {
